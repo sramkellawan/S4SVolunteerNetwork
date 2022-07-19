@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "632745596612",
+    "project_id": "s4svolunteernetwork",
+    "storage_bucket": "s4svolunteernetwork.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632745596612:android:3dd9d3b4729a36227e1b91",
+        "android_client_info": {
+          "package_name": "com.example.s4svolunteernetwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632745596612-hm27q0oo9sf5bobmo3382fsafk5r8tms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF9fF2nsl3DliE3fP3s_v3rCKveinL1fY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632745596612-hm27q0oo9sf5bobmo3382fsafk5r8tms.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
